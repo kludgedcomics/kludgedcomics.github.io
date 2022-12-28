@@ -7,4 +7,4 @@ permalink: /index.html
 
 Start reading here!
 
-<a href="/003" class="btn btn-primary" role="button" aria-disabled="true">Latest Comics</a>
+<a href="/004" class="btn btn-primary" role="button" aria-disabled="true">Latest Comics</a>
